@@ -1,0 +1,36 @@
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\Gestor de produtos.exe.config
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\Gestor de produtos.exe
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\Gestor de produtos.pdb
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\MySql.Data.dll
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\Google.Protobuf.dll
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\ZstdNet.dll
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\System.Memory.dll
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\System.Buffers.dll
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\bin\Debug\MySql.Data.xml
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor de produtos.exe.config
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.frmAddProduto.resources
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.frmAddRemoveEstoque.resources
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.frmDadosGrafico.resources
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.frmEditarVenda.resources
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.frmEntrada.resources
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.frmEstoque.resources
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.frmMysql.resources
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.frmPlataforma.resources
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.frmPrincipal.resources
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.frmProdutos.resources
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.Properties.Resources.resources
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor de protudos.csproj.GenerateResource.cache
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor de protudos.csproj.CoreCompileInputs.cache
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor de protudos.csproj.CopyComplete
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor de produtos.exe
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor de produtos.pdb
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor de protudos.csproj.AssemblyReference.cache
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.frmSettings.resources
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.frmEditarPlatProdutoVenda.resources
+C:\Users\Jean\source\repos\Gestor de protudos\Gestor de protudos\obj\Debug\Gestor_de_produtos.frmListaPlataformas.resources
